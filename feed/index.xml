@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Computer Repair, Geek Services &#38; Handyman (&#38; Blog)</description>
-	<lastBuildDate>Wed, 05 Apr 2023 12:36:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Apr 2023 16:29:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>5 Computer Tricks Everyone Should Know</title>
+		<link>/2023/04/05/5-computer-tricks-everyone-should-know/</link>
+		
+		<dc:creator><![CDATA[Justin]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 16:01:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=41</guid>
+
+					<description><![CDATA[There are so many tips, tricks and life-hacks when it comes to using your computer that it is impossible to memorize them all! Here are five that make my life easier on...]]></description>
+										<content:encoded><![CDATA[
+<p>There are so many tips, tricks and life-hacks when it comes to using your computer that it is impossible to memorize them all! Here are five that make my life easier on a daily basis and hopefully help you, too!</p>
+
+
+
+<h2 class="wp-block-heading">1. Taking A Screenshot</h2>
+
+
+
+<p>There are lots of programs out there that one can use to take a picture of the screen. This method involves opening a program, dragging an area to capture and choosing the location to save it to. Did you know there is a button right on you keyboard that does it in one click? The &#8220;Print Screen&#8221; key actually has a use! Just tap it!</p>
+
+
+
+<h2 class="wp-block-heading">2. Undo</h2>
+
+
+
+<p>Almost every computer program, web browser and even OS (Windows, MAC and Linux) agree that ctrl + z is used to undo that last action. Sometimes will editing a photo, writing up a large document, etc. I will make a huge mistake like deleting an entire page in one click. Panic sets in, and then I remember holding down the ctrl key and pressing z will save the day. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="420" height="294" src="/wp-content/uploads/2023/04/ctlrzLife.jpg" alt="" class="wp-image-42" srcset="/wp-content/uploads/2023/04/ctlrzLife.jpg 420w, /wp-content/uploads/2023/04/ctlrzLife-300x210.jpg 300w" sizes="(max-width: 420px) 100vw, 420px" /></figure></div>
+
+
+<h2 class="wp-block-heading">3. Window Snapping</h2>
+
+
+
+<p>One of the features being introduced recently in Windows 11 is snapping windows to the top, bottom, left and right of the screen. This has been around for over a decade on Linux operating systems known as Tiling Windows. Just grab the tab or window and drag it where you want and it should snap automatically.</p>
+
+
+
+<h2 class="wp-block-heading">4. Night Mode</h2>
+
+
+
+<p>Staring at a screen on a dark room can cause serious eye strain and migraines. A feature that come out recently is Night Mode. Basically, it dims the blue light and reduces the discomfort.  Windows, MAC, Linux have this feature and even most phones. If your phone lacks this option, don&#8217;t worry, there are plenty of apps that will take care of it.</p>
+
+
+
+<h2 class="wp-block-heading">5. Limiting Startup Programs</h2>
+
+
+
+<p>Some computers seem to take forever to boot up after being turned on or after a restart! This is usually caused by many unnecessary programs starting when when the computer starts. Some good examples are Zoom, iTunes Helper, Adobe Reader and Microsoft Office. Most times we just want to open a browser to check the emails, watch some YouTube or check Facebook. We don&#8217;t need all these other apps slowing down the startup and slowing down the computer in general while they run in the background.</p>
+
+
+
+<p>On Windows open the Task Manager, click the Startup tab and disable everything you don&#8217;t need.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="626" height="369" src="/wp-content/uploads/2023/04/winStrtup.jpg" alt="" class="wp-image-43" srcset="/wp-content/uploads/2023/04/winStrtup.jpg 626w, /wp-content/uploads/2023/04/winStrtup-300x177.jpg 300w" sizes="(max-width: 626px) 100vw, 626px" /></figure>
+
+
+
+<p>On your Mac, choose Apple menu &gt; System Settings, click General in the sidebar, then click Login Items on the right. Remove what&#8217;s not needed.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/04/macStrtup.png" alt="" class="wp-image-44" width="623" height="424" srcset="/wp-content/uploads/2023/04/macStrtup.png 753w, /wp-content/uploads/2023/04/macStrtup-300x204.png 300w" sizes="(max-width: 623px) 100vw, 623px" /></figure>
+
+
+
+<p>Hopefully these tops save you some time and frustration. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Hello World!</title>
 		<link>/2023/04/05/hello-world/</link>
 		
