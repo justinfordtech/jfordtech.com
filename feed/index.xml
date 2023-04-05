@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>J Ford Tech &#8211; Smyrna, TN</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Computer Repair, Geek Services &#38; Handyman (&#38; Blog)</description>
+	<lastBuildDate>Wed, 05 Apr 2023 12:36:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/cropped-jIcon512-32x32.png</url>
+	<title>J Ford Tech &#8211; Smyrna, TN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello World!</title>
+		<link>/2023/04/05/hello-world/</link>
+		
+		<dc:creator><![CDATA[Justin]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 11:30:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Today is Launch Day for the new site, formerly Tech Unlimited! My name is Justin and I am a local Computer Repair, Tech Support Geek and Handyman serving all of Middle Tennessee....]]></description>
+										<content:encoded><![CDATA[
+<p>Today is Launch Day for the new site, formerly Tech Unlimited! My name is Justin and I am a local Computer Repair, Tech Support Geek and Handyman serving all of Middle Tennessee. I wanted more than just a static site listing my credentials, I wanted a place to share my experience and knowledge with anyone willing to listen, too. This now serves both purposes! Feel free to drop me an email if there is something you would like me to write about.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
