@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Computer Repair, Geek Services &#38; Handyman (&#38; Blog)</description>
-	<lastBuildDate>Wed, 05 Apr 2023 16:29:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Apr 2023 21:46:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -108,7 +108,7 @@
 		
 			</item>
 		<item>
-		<title>Hello World!</title>
+		<title>print (&#8220;Hello_World!&#8221;)</title>
 		<link>/2023/04/05/hello-world/</link>
 		
 		<dc:creator><![CDATA[Justin]]></dc:creator>
@@ -116,9 +116,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Today is Launch Day for the new site, formerly Tech Unlimited! My name is Justin and I am a local Computer Repair, Tech Support Geek and Handyman serving all of Middle Tennessee....]]></description>
+					<description><![CDATA[Today is Launch Day for this new site, formerly TechUnlimitedUS.com. My name is Justin and I am a local Computer Repair, Tech Support Geek and Handyman based in Smyrna and serving all...]]></description>
 										<content:encoded><![CDATA[
-<p>Today is Launch Day for the new site, formerly Tech Unlimited! My name is Justin and I am a local Computer Repair, Tech Support Geek and Handyman serving all of Middle Tennessee. I wanted more than just a static site listing my credentials, I wanted a place to share my experience and knowledge with anyone willing to listen, too. This now serves both purposes! Feel free to drop me an email if there is something you would like me to write about.</p>
+<p>Today is Launch Day for this new site, formerly <a rel="noreferrer noopener" href="http://techunlimitedus.com/" target="_blank">TechUnlimitedUS.com</a>. My name is Justin and I am a local Computer Repair, Tech Support Geek and Handyman based in <a rel="noreferrer noopener" href="https://www.townofsmyrna.org/" target="_blank">Smyrna</a> and serving all of Middle Tennessee. I wanted more than just a static site listing my credentials and which services I offer, I wanted a place to share my experience and knowledge with anyone willing to listen, too. This site now serves both purposes! Feel free to drop me an email at <a href="mailto:TechUnlimited1337@gmail.com" target="_blank" rel="noreferrer noopener">TechUnlimited1337@gmail.com</a> if there is something you would like me to write about. Call me @ <a href="tel:239-391-4295">239-391-4295</a> for help with all your tech needs. </p>
 ]]></content:encoded>
 					
 		
